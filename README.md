@@ -27,7 +27,7 @@ As I move from concept to code, I will be documenting my journey and sharing upd
 
 While this project is still in the architectural phase, I am building it upon my experience with and interest in the following technologies. I am always learning and exploring new tools!
 
-* **Programming Languages:** `Python, FastAPI.`
+* **Most Used Tech:** `Python, FastAPI, Node.JS, Vue.JS`
 * **Areas of Interest:** `Machine Learning, AI Agent, Automation`
 
 ---
